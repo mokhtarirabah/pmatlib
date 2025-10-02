@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use pmatlib in your work, please cite the following paper."
+title: "pmatlib"
+version: "0.1.0"
+doi: ""
+authors:
+  - family-names: "Mokhtari"
+    given-names: "Rabah"
+  - family-names: "Belhouari"
+    given-names: "S. B."
+  - family-names: "Kassoul"
+    given-names: "K."
+  - family-names: "Hocini"
+    given-names: "A."
+references:
+  - type: article
+    title: "ECG heartbeat classification using progressive moving average transform"
+    authors:
+      - family-names: "Mokhtari"
+        given-names: "R."
+      - family-names: "Belhouari"
+        given-names: "S. B."
+      - family-names: "Kassoul"
+        given-names: "K."
+      - family-names: "Hocini"
+        given-names: "A."
+    journal: "Scientific Reports"
+    volume: "15"
+    pages: "4285"
+    year: 2025
+    doi: "https://doi.org/10.1038/s41598-025-88119-9"
