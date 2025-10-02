@@ -1,4 +1,4 @@
-# ?? pmatlib
+# pmatlib
 
 **pmatlib** is a lightweight Python library that implements the **Progressive Moving Average Transform (PMAT)**.  
 PMAT is a signal transformation technique that converts **1D discrete signals** into **2D representations** by progressively applying Moving Averages (MA) with varying window sizes.  
@@ -7,7 +7,7 @@ This transform is particularly useful for **feature extraction**, **fault diagno
 
 ---
 
-## ? Features
+## Features
 - Implementation of the **Progressive Moving Average Transform (PMAT)**.  
 - Supports three variants:  
   - **LPMAT** (Left PMAT)  
@@ -18,7 +18,7 @@ This transform is particularly useful for **feature extraction**, **fault diagno
 
 ---
 
-## ?? Installation
+## Installation
 
 ```bash
 pip install pmatlib
